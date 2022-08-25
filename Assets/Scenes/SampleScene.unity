@@ -213,33 +213,23 @@ MonoBehaviour:
   m_ConstrainRotation: 1
   m_SolveFromDefaultPose: 1
   m_Weight: 1
-  m_TargetPositions: []
-  m_Chain: {m_EffectorTransform: {fileID: 1261595330}, m_TargetTransform: {fileID: 1830185273},
-    m_TransformCount: 3, m_Transforms:
+  m_Chain:
+    m_EffectorTransform: {fileID: 1261595330}
+    m_TargetTransform: {fileID: 1830185273}
+    m_TransformCount: 3
+    m_Transforms:
     - {fileID: 1516332947990362965}
     - {fileID: 1865826871596366298}
     - {fileID: 1261595330}
-, m_DefaultLocalRotations:
+    m_DefaultLocalRotations:
     - {x: -0, y: -0, z: 0.9974735, w: 0.07104052}
     - {x: -0, y: -0, z: 0.0494315, w: 0.99877757}
     - {x: 0, y: 0, z: 0, w: 1}
-, m_StoredLocalRotations:
+    m_StoredLocalRotations:
     - {x: 0, y: 0, z: 0, w: 0}
     - {x: 0, y: 0, z: 0, w: 0}
     - {x: 0, y: 0, z: 0, w: 0}
-, m_Lengths: []
-}
-  m_Flip: 0
-  m_Positions:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  m_Lengths:
-  - 0
-  - 0
-  m_Angles:
-  - 0
-  - 0
+  m_Flip: 1
 --- !u!4 &271055682
 Transform:
   m_ObjectHideFlags: 0
@@ -287,33 +277,23 @@ MonoBehaviour:
   m_ConstrainRotation: 1
   m_SolveFromDefaultPose: 1
   m_Weight: 1
-  m_TargetPositions: []
-  m_Chain: {m_EffectorTransform: {fileID: 51905658}, m_TargetTransform: {fileID: 1006225313},
-    m_TransformCount: 3, m_Transforms:
+  m_Chain:
+    m_EffectorTransform: {fileID: 51905658}
+    m_TargetTransform: {fileID: 1006225313}
+    m_TransformCount: 3
+    m_Transforms:
     - {fileID: 5809297107490578166}
     - {fileID: 1427031564632070225}
     - {fileID: 51905658}
-, m_DefaultLocalRotations:
+    m_DefaultLocalRotations:
     - {x: -0, y: -0, z: -0.99616766, w: 0.08746457}
     - {x: -0, y: -0, z: -0.08273985, w: 0.9965712}
     - {x: 0, y: 0, z: 0, w: 1}
-, m_StoredLocalRotations:
+    m_StoredLocalRotations:
     - {x: 0, y: 0, z: 0, w: 0}
     - {x: 0, y: 0, z: 0, w: 0}
     - {x: 0, y: 0, z: 0, w: 0}
-, m_Lengths: []
-}
-  m_Flip: 0
-  m_Positions:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  m_Lengths:
-  - 0
-  - 0
-  m_Angles:
-  - 0
-  - 0
+  m_Flip: 1
 --- !u!4 &331665095
 Transform:
   m_ObjectHideFlags: 0
@@ -391,33 +371,23 @@ MonoBehaviour:
   m_ConstrainRotation: 1
   m_SolveFromDefaultPose: 1
   m_Weight: 1
-  m_TargetPositions: []
-  m_Chain: {m_EffectorTransform: {fileID: 2135409789}, m_TargetTransform: {fileID: 0},
-    m_TransformCount: 3, m_Transforms:
+  m_Chain:
+    m_EffectorTransform: {fileID: 2135409789}
+    m_TargetTransform: {fileID: 0}
+    m_TransformCount: 3
+    m_Transforms:
     - {fileID: 5356958448865909677}
     - {fileID: 5939421607688950607}
     - {fileID: 2135409789}
-, m_DefaultLocalRotations:
+    m_DefaultLocalRotations:
     - {x: -0, y: -0, z: -0, w: 1}
     - {x: 0, y: 0, z: 0.71014786, w: 0.70405257}
     - {x: -0, y: -0, z: -0, w: 1}
-, m_StoredLocalRotations:
+    m_StoredLocalRotations:
     - {x: 0, y: 0, z: 0, w: 0}
     - {x: 0, y: 0, z: 0, w: 0}
     - {x: 0, y: 0, z: 0, w: 0}
-, m_Lengths: []
-}
-  m_Flip: 1
-  m_Positions:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  m_Lengths:
-  - 0
-  - 0
-  m_Angles:
-  - 0
-  - 0
+  m_Flip: 0
 --- !u!4 &426416335
 Transform:
   m_ObjectHideFlags: 0
@@ -464,33 +434,23 @@ MonoBehaviour:
   m_ConstrainRotation: 1
   m_SolveFromDefaultPose: 1
   m_Weight: 1
-  m_TargetPositions: []
-  m_Chain: {m_EffectorTransform: {fileID: 1914732879}, m_TargetTransform: {fileID: 348694856},
-    m_TransformCount: 3, m_Transforms:
+  m_Chain:
+    m_EffectorTransform: {fileID: 1914732879}
+    m_TargetTransform: {fileID: 348694856}
+    m_TransformCount: 3
+    m_Transforms:
     - {fileID: 6788368141718915323}
     - {fileID: 7543808152454970691}
     - {fileID: 1914732879}
-, m_DefaultLocalRotations:
+    m_DefaultLocalRotations:
     - {x: -0, y: -0, z: -0.97270805, w: 0.23203261}
     - {x: -0, y: -0, z: -0.187514, w: 0.9822619}
     - {x: 0, y: 0, z: 0, w: 1}
-, m_StoredLocalRotations:
+    m_StoredLocalRotations:
     - {x: 0, y: 0, z: 0, w: 0}
     - {x: 0, y: 0, z: 0, w: 0}
     - {x: 0, y: 0, z: 0, w: 0}
-, m_Lengths: []
-}
   m_Flip: 1
-  m_Positions:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  m_Lengths:
-  - 0
-  - 0
-  m_Angles:
-  - 0
-  - 0
 --- !u!4 &465847973
 Transform:
   m_ObjectHideFlags: 0
@@ -628,35 +588,15 @@ MonoBehaviour:
   - {fileID: 426416334}
   m_Weight: 1
   m_SolverEditorData:
-  - color:
-      r: 0
-      g: 1
-      b: 0
-      a: 1
+  - color: {r: 0, g: 1, b: 0, a: 1}
     showGizmo: 1
-  - color:
-      r: 0
-      g: 1
-      b: 0
-      a: 1
+  - color: {r: 0, g: 1, b: 0, a: 1}
     showGizmo: 1
-  - color:
-      r: 0
-      g: 1
-      b: 0
-      a: 1
+  - color: {r: 0, g: 1, b: 0, a: 1}
     showGizmo: 1
-  - color:
-      r: 0
-      g: 1
-      b: 0
-      a: 1
+  - color: {r: 0, g: 1, b: 0, a: 1}
     showGizmo: 1
-  - color:
-      r: 0
-      g: 1
-      b: 0
-      a: 1
+  - color: {r: 0, g: 1, b: 0, a: 1}
     showGizmo: 1
 --- !u!1 &1006225312
 GameObject:
@@ -840,33 +780,23 @@ MonoBehaviour:
   m_ConstrainRotation: 1
   m_SolveFromDefaultPose: 1
   m_Weight: 1
-  m_TargetPositions: []
-  m_Chain: {m_EffectorTransform: {fileID: 144763939}, m_TargetTransform: {fileID: 1248462556},
-    m_TransformCount: 3, m_Transforms:
+  m_Chain:
+    m_EffectorTransform: {fileID: 144763939}
+    m_TargetTransform: {fileID: 1248462556}
+    m_TransformCount: 3
+    m_Transforms:
     - {fileID: 1990151832442538519}
     - {fileID: 7163474673488199422}
     - {fileID: 144763939}
-, m_DefaultLocalRotations:
+    m_DefaultLocalRotations:
     - {x: -0, y: -0, z: 0.9776023, w: 0.21046098}
     - {x: -0, y: -0, z: 0.16168001, w: 0.9868432}
     - {x: 0, y: 0, z: 0, w: 1}
-, m_StoredLocalRotations:
+    m_StoredLocalRotations:
     - {x: 0, y: 0, z: 0, w: 0}
     - {x: 0, y: 0, z: 0, w: 0}
     - {x: 0, y: 0, z: 0, w: 0}
-, m_Lengths: []
-}
   m_Flip: 1
-  m_Positions:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  m_Lengths:
-  - 0
-  - 0
-  m_Angles:
-  - 0
-  - 0
 --- !u!4 &1963330944
 Transform:
   m_ObjectHideFlags: 0
@@ -946,15 +876,7 @@ MonoBehaviour:
     m_Center: {x: -0.66201293, y: 4.496472, z: 0}
     m_Extent: {x: 0.31749606, y: 1.003869, z: 0}
   m_UseBatching: 1
-  m_CurrentDeformVerticesLength: 2268
-  m_SpriteRenderer: {fileID: 1265852342496266564}
-  m_CurrentDeformSprite: {fileID: 6725983412837559124, guid: 2d882a53ff7ef8048a935996e0c479f8,
-    type: 3}
-  m_ForceSkinning: 0
-  m_BatchSkinning: 0
-  m_IsValid: 1
-  m_TransformsHash: -1413432911
-  m_IgnoreNextSpriteChange: 1
+  m_AlwaysUpdate: 1
 --- !u!1 &912371891034599241
 GameObject:
   m_ObjectHideFlags: 0
@@ -991,15 +913,7 @@ MonoBehaviour:
     m_Center: {x: -0.9412403, y: 4.5107303, z: 0}
     m_Extent: {x: 0.34373713, y: 1.0046458, z: 0}
   m_UseBatching: 1
-  m_CurrentDeformVerticesLength: 1064
-  m_SpriteRenderer: {fileID: 1522796287576422415}
-  m_CurrentDeformSprite: {fileID: 147732545042644772, guid: 2d882a53ff7ef8048a935996e0c479f8,
-    type: 3}
-  m_ForceSkinning: 0
-  m_BatchSkinning: 0
-  m_IsValid: 1
-  m_TransformsHash: -1132085669
-  m_IgnoreNextSpriteChange: 1
+  m_AlwaysUpdate: 1
 --- !u!1 &1013698038368610391
 GameObject:
   m_ObjectHideFlags: 0
@@ -1066,7 +980,7 @@ SpriteRenderer:
   m_Size: {x: 0.83, y: 1.99}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1405127909825937439
@@ -1180,7 +1094,7 @@ SpriteRenderer:
   m_Size: {x: 0.83, y: 1.99}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1781305423544842819
@@ -1260,7 +1174,7 @@ SpriteRenderer:
   m_Size: {x: 1.26, y: 1.06}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1990151832442538519
@@ -1313,15 +1227,7 @@ MonoBehaviour:
     m_Center: {x: -1.3018563, y: 4.339691, z: 0}
     m_Extent: {x: 0.6886767, y: 0.3204038, z: 0}
   m_UseBatching: 1
-  m_CurrentDeformVerticesLength: 980
-  m_SpriteRenderer: {fileID: 1879347376029314249}
-  m_CurrentDeformSprite: {fileID: -4151256725155152054, guid: 2d882a53ff7ef8048a935996e0c479f8,
-    type: 3}
-  m_ForceSkinning: 0
-  m_BatchSkinning: 0
-  m_IsValid: 1
-  m_TransformsHash: -1435344211
-  m_IgnoreNextSpriteChange: 1
+  m_AlwaysUpdate: 1
 --- !u!1 &2436997664242349147
 GameObject:
   m_ObjectHideFlags: 0
@@ -1358,15 +1264,7 @@ MonoBehaviour:
     m_Center: {x: -0.19327754, y: 1.8080602, z: 0}
     m_Extent: {x: 0.65350556, y: 0.65186834, z: 0}
   m_UseBatching: 1
-  m_CurrentDeformVerticesLength: 756
-  m_SpriteRenderer: {fileID: 7299570309422551413}
-  m_CurrentDeformSprite: {fileID: -3778130042694252930, guid: 2d882a53ff7ef8048a935996e0c479f8,
-    type: 3}
-  m_ForceSkinning: 0
-  m_BatchSkinning: 0
-  m_IsValid: 1
-  m_TransformsHash: 2081096677
-  m_IgnoreNextSpriteChange: 1
+  m_AlwaysUpdate: 1
 --- !u!114 &3695893757969464440
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1387,15 +1285,7 @@ MonoBehaviour:
     m_Center: {x: -1.1758306, y: 4.3082514, z: 0}
     m_Extent: {x: 0.40676472, y: 0.71687126, z: 0}
   m_UseBatching: 1
-  m_CurrentDeformVerticesLength: 1260
-  m_SpriteRenderer: {fileID: 4377572138808798541}
-  m_CurrentDeformSprite: {fileID: -5646184549206604731, guid: 2d882a53ff7ef8048a935996e0c479f8,
-    type: 3}
-  m_ForceSkinning: 0
-  m_BatchSkinning: 0
-  m_IsValid: 1
-  m_TransformsHash: 1461177888
-  m_IgnoreNextSpriteChange: 1
+  m_AlwaysUpdate: 1
 --- !u!4 &4055734099007226009
 Transform:
   m_ObjectHideFlags: 0
@@ -1446,15 +1336,7 @@ MonoBehaviour:
     m_Center: {x: -0.44591898, y: 4.443325, z: 0}
     m_Extent: {x: 0.30908608, y: 1.0045757, z: 0}
   m_UseBatching: 1
-  m_CurrentDeformVerticesLength: 2100
-  m_SpriteRenderer: {fileID: 8589554213246002291}
-  m_CurrentDeformSprite: {fileID: 5472377076400737264, guid: 2d882a53ff7ef8048a935996e0c479f8,
-    type: 3}
-  m_ForceSkinning: 0
-  m_BatchSkinning: 0
-  m_IsValid: 1
-  m_TransformsHash: 131396914
-  m_IgnoreNextSpriteChange: 1
+  m_AlwaysUpdate: 1
 --- !u!4 &4361121995233045845
 Transform:
   m_ObjectHideFlags: 0
@@ -1517,7 +1399,7 @@ SpriteRenderer:
   m_Size: {x: 1.26, y: 1.06}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &4380440184429884682
@@ -1606,15 +1488,7 @@ MonoBehaviour:
     m_Center: {x: -0.80933696, y: 4.546174, z: 0}
     m_Extent: {x: 0.36154932, y: 1.0018847, z: 0}
   m_UseBatching: 1
-  m_CurrentDeformVerticesLength: 1120
-  m_SpriteRenderer: {fileID: 9006471719276653036}
-  m_CurrentDeformSprite: {fileID: 2357744575420291451, guid: 2d882a53ff7ef8048a935996e0c479f8,
-    type: 3}
-  m_ForceSkinning: 0
-  m_BatchSkinning: 0
-  m_IsValid: 1
-  m_TransformsHash: -1657867101
-  m_IgnoreNextSpriteChange: 1
+  m_AlwaysUpdate: 1
 --- !u!1 &5096178175326986224
 GameObject:
   m_ObjectHideFlags: 0
@@ -1824,7 +1698,7 @@ SpriteRenderer:
   m_Size: {x: 0.44, y: 3.35}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &6038075517816559464
@@ -1940,15 +1814,7 @@ MonoBehaviour:
     m_Center: {x: -0.08232871, y: 4.5010633, z: 0}
     m_Extent: {x: 0.30675107, y: 1.6729726, z: 0}
   m_UseBatching: 1
-  m_CurrentDeformVerticesLength: 2408
-  m_SpriteRenderer: {fileID: 5977831192052480996}
-  m_CurrentDeformSprite: {fileID: 430116830338803744, guid: 2d882a53ff7ef8048a935996e0c479f8,
-    type: 3}
-  m_ForceSkinning: 0
-  m_BatchSkinning: 0
-  m_IsValid: 1
-  m_TransformsHash: -530842452
-  m_IgnoreNextSpriteChange: 1
+  m_AlwaysUpdate: 1
 --- !u!4 &7055180615214119964
 Transform:
   m_ObjectHideFlags: 0
@@ -2026,7 +1892,7 @@ SpriteRenderer:
   m_Size: {x: 1.3, y: 1.3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &7314739594455992049
@@ -2066,15 +1932,7 @@ MonoBehaviour:
     m_Center: {x: -0.55125517, y: 3.266144, z: 0}
     m_Extent: {x: 0.37105024, y: 0.71379304, z: 0}
   m_UseBatching: 1
-  m_CurrentDeformVerticesLength: 1540
-  m_SpriteRenderer: {fileID: 7476749433686586677}
-  m_CurrentDeformSprite: {fileID: 8069776688888701904, guid: 2d882a53ff7ef8048a935996e0c479f8,
-    type: 3}
-  m_ForceSkinning: 0
-  m_BatchSkinning: 0
-  m_IsValid: 1
-  m_TransformsHash: 1414909315
-  m_IgnoreNextSpriteChange: 1
+  m_AlwaysUpdate: 1
 --- !u!212 &7476749433686586677
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2123,7 +1981,7 @@ SpriteRenderer:
   m_Size: {x: 1.26, y: 1.06}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &7532961309560186014
@@ -2191,15 +2049,7 @@ MonoBehaviour:
     m_Center: {x: -0.89392126, y: 4.5149565, z: 0}
     m_Extent: {x: 0.64255464, y: 0.51377964, z: 0}
   m_UseBatching: 1
-  m_CurrentDeformVerticesLength: 1568
-  m_SpriteRenderer: {fileID: 8231121760661580947}
-  m_CurrentDeformSprite: {fileID: -2234895800803384374, guid: 2d882a53ff7ef8048a935996e0c479f8,
-    type: 3}
-  m_ForceSkinning: 0
-  m_BatchSkinning: 0
-  m_IsValid: 1
-  m_TransformsHash: 573646582
-  m_IgnoreNextSpriteChange: 1
+  m_AlwaysUpdate: 1
 --- !u!212 &8231121760661580947
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2248,7 +2098,7 @@ SpriteRenderer:
   m_Size: {x: 1.26, y: 1.06}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &8240459517599236230
@@ -2351,7 +2201,7 @@ SpriteRenderer:
   m_Size: {x: 0.83, y: 1.99}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &8655843625357589767
@@ -2434,6 +2284,6 @@ SpriteRenderer:
   m_Size: {x: 0.83, y: 1.99}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
